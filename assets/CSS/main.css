@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #141414;
+    text-align: center;
+    vertical-align: top;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    height: 48px;
+}
+
+div {
+    display: inline-block;
+    color: #d0d0d0;
+    vertical-align: top;
+    width: auto;
+    height: 100%;
+    white-space: nowrap;
+    font-size: 12px;
+    margin: auto 15px;
+}
+
+div:hover {
+    color: #f5f5f7;
+    cursor: pointer;
+}
+
+img {
+    margin-top: 10px;
+    height: 30px;
+    width: auto;
+}
+
+p {
+    margin-top: 20px;
+}
